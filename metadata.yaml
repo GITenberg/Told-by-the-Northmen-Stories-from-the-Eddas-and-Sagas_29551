@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33985'
     url: http://www.gutenberg.org/2009/agents/33985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29551#Told-by-the-Northmen-Stories-from-the-Eddas-and-Sagas
 gutenberg_issued: '2009-07-30'
 gutenberg_type: Text
 identifiers:
